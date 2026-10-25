@@ -1,0 +1,37 @@
+
+# Core data processing
+numpy
+pandas
+scipy
+pyarrow
+duckdb
+
+# Data visualization
+matplotlib
+seaborn
+plotly
+
+# Machine Learning
+scikit-learn
+lightgbm
+imbalanced-learn
+
+# Model interpretation and evaluation
+shap
+statsmodels
+joblib
+
+# Hyperparameter optimization
+optuna
+
+# Web application
+streamlit
+
+# Notebooks
+jupyterlab
+ipykernel
+ipywidgets
+
+# Utilities
+tqdm
+python-dotenv
